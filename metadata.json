@@ -1,0 +1,6 @@
+{
+  "name": "Pinterin.ai",
+  "description": "AI-powered learning for Gen Z. Features include AI Essay feedback, Hall of Fame ranking, Voice AI Tutor, and Smart Learning Suggestions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
